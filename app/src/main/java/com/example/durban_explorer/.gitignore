@@ -1,0 +1,15 @@
+# Gradle files
+.gradle/
+build/
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Misc
+*.apk
+*.ap_
